@@ -1,0 +1,16 @@
+﻿Nazwa,Rodzaj,Cal,Cena,Wege
+JAJKO,Przystawka,20,5,TRUE
+KAPUSTA,Przystawka,150,13,TRUE
+KIEŁKI,Przystawka,200,17,TRUE
+BOCZEK,Główne,60,8,FALSE
+SZYNKA,Główne,80,9,FALSE
+KURCZAK,Główne,100,10,FALSE
+JOGURT,Deser,120,4,TRUE
+BATONIK,Deser,420,12,TRUE
+CIASTKO,Deser,320,3,TRUE
+Ryba,Główne,400,15,TRUE
+Ryż,Przystawka,100,4,TRUE
+Kasza,Przystawka,150,3,TRUE
+Mleko,Przystawka,50,4,TRUE
+Kotlet Sojowy,Główne,80,7,TRUE
+Test,Deser,90,8,TRUE
